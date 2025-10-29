@@ -8,11 +8,11 @@ let songItems = document.querySelectorAll(".songItem");
 
 
 let songs = [
-    {songName:"Bariye Dao", filePath:"songs/1.mp3", coverPath:"covers/1.jpg", duration:"04:20"},
-    {songName:"Espresso", filePath:"songs/2.mp3", coverPath:"covers/2.jpg", duration:"03:16"},
-    {songName:"Humdum Humdum", filePath:"songs/3.mp3", coverPath:"covers/3.jpg", duration:"04:03"},
-    {songName:"Suzume No Tojimori", filePath:"songs/4.mp3", coverPath:"covers/4.jpg", duration:"03:01"},
-    {songName:"One Love", filePath:"one_Love .mp3", coverPath:"cover1.png", duration:"03:56"},
+    {songName:"Bariye Dao", filePath:"songs/1.mp3", coverPath:"cover/1.jpg", duration:"04:20"},
+    {songName:"Espresso", filePath:"songs/2.mp3", coverPath:"cover/2.jpg", duration:"03:16"},
+    {songName:"Humdum Humdum", filePath:"songs/3.mp3", coverPath:"cover/3.jpg", duration:"04:03"},
+    {songName:"Suzume No Tojimori", filePath:"songs/4.mp3", coverPath:"cover/4.jpg", duration:"03:01"},
+    {songName:"One Love", filePath:"one_Love .mp3", coverPath:"cover.png", duration:"03:56"},
     {songName:"We Don't Talk Anymore", filePath:"songs/5.mp3", coverPath:"covers/5.jpg", duration:"03:37"},
 ]
 
@@ -116,6 +116,7 @@ rightPlay.addEventListener("click", () => {
     currentPlayBtn.setAttribute("class", "fa-solid fa-pause playBtn");
     gif.style.opacity = 1;
 })
+
 
 
 
