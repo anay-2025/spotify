@@ -1,3 +1,34 @@
-A front-end Spotify Clone built using HTML, CSS, and JavaScript that replicates the UI and basic functionality of the Spotify web player.
+🎵 Spotify Clone ->
 
-This project showcases responsive design, audio controls, and DOM manipulation using vanilla JavaScript.
+A responsive Spotify-inspired music streaming web application built using modern frontend technologies. This project replicates the core user interface and basic music player functionality of Spotify, allowing users to browse playlists and control music playback.
+
+🚀 Features
+
+🎧 Music Player Controls – Play, pause, and switch between tracks
+
+📂 Dynamic Playlist UI – Click on songs to start playback
+
+📱 Responsive Design – Works smoothly across different screen sizes
+
+⚡ Fast & Lightweight Interface
+
+🎨 Spotify-like User Interface
+
+🛠️ Tech Stack
+
+Frontend
+
+HTML
+
+CSS
+
+JavaScript
+
+
+Tools
+
+Git
+
+GitHub
+
+VS Code
